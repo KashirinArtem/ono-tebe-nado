@@ -9,7 +9,7 @@
     align-items: center;
     padding-top: 92px;
     padding-bottom: 92px;
-    font-family: Raleway, serif;
+    font-family: Raleway, sans-serif;
     font-size: 19px;
     font-weight: 400;
 }
@@ -71,7 +71,7 @@
     margin-top: 165px;
     margin-left: 26px;
     font-size: 100px;
-    font-family: Raleway, serif;
+    font-family: Raleway, sans-serif;
     font-weight: 500;
     color: #fff;
     line-height: normal;
@@ -121,7 +121,7 @@
 }
 
 .cover__description-text {
-    font-family: Raleway, serif;
+    font-family: Raleway, sans-serif;
     font-size: 22px;
     color: #fff;
     word-spacing: 23px;
@@ -132,7 +132,7 @@
     background-color: transparent;
     outline: 1px solid #fff;
     color: #fff;
-    font-family: Raleway, serif;
+    font-family: Raleway, sans-serif;
     font-size: 22px;
     padding: 10px 27px;
     word-spacing: 4px;
@@ -191,14 +191,14 @@
 }
 
 .card__title {
-    font-family: Raleway, serif;
+    font-family: Raleway, sans-serif;
     font-weight: 700;
     font-size: 22px;
     text-decoration: underline;
 }
 
 .card__text {
-    font-family: Raleway, serif;
+    font-family: Raleway, sans-serif;
     font-weight: 400;
     font-size: 20px;
 }
@@ -206,7 +206,7 @@
 .lots__look-more-link {
     margin-top: 27px;
     margin-left: 40px;
-    font-family: Raleway, serif;
+    font-family: Raleway, sans-serif;
     font-weight: 400;
     font-size: 20px;
 }
@@ -236,7 +236,7 @@
 
 .about__text {
     margin-top: 99px;
-    font-family: Raleway, serif;
+    font-family: Raleway, sans-serif;
     font-weight: 400;
     font-size: 20px;
     letter-spacing: 0;
@@ -250,7 +250,7 @@
 .footer__menu {
     display: flex;
     justify-content: space-between;
-    font-family: Raleway, serif;
+    font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 400;
 }
