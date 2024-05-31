@@ -244,11 +244,18 @@
 }
 
 .about__text {
-    margin-top: 99px;
     font-family: Raleway, sans-serif;
     font-weight: 400;
     font-size: 20px;
     letter-spacing: 0;
+}
+
+.first-text {
+    margin-top: 99px;
+}
+
+.second-text {
+    margin-top: 25px;
 }
 
 .footer {
