@@ -280,6 +280,15 @@
     padding-left: 27px;
 }
 
+.footer__address-phone,
+.footer__address-email,
+.footer__address-location {
+    line-height: 1.3;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0;
+}
+
 .footer__link-list {
     padding-left: 31px;
     text-align: center;
@@ -289,4 +298,8 @@
     display: flex;
     gap: 48px;
     margin-right: 26px;
+}
+
+.footer__link {
+    white-space: nowrap;
 }
