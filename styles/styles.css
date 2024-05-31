@@ -45,7 +45,15 @@
     align-items: start;
     margin-right: 30px;
     max-width: 237px;
-    line-height: 1.2;
+}
+
+.header__address-phone,
+.header__address-email,
+.header__address-location {
+    line-height: 1.3;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0;
 }
 
 .cover {
@@ -258,7 +266,7 @@
     flex-direction: column;
     justify-content: start;
     align-items: start;
-    max-width: 237px;
+    max-width: 241px;
     line-height: 1.5;
     padding-left: 27px;
 }
