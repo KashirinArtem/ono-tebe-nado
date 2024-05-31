@@ -2,7 +2,7 @@
     src: url(/fonts/Raleway-Bold.woff2) format('woff2'),
         url(/fonts/Raleway-Bold.woff) format('woff'),
         url(/fonts/Raleway-Bold.ttf) format('truetype');
-    font-family: 'Raleway-700';
+    font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
 }
@@ -11,7 +11,7 @@
     src: url(/fonts/Raleway-Medium.woff2) format('woff2'),
         url(/fonts/Raleway-Medium.woff) format('woff'),
         url(/fonts/Raleway-Medium.ttf) format('truetype');
-    font-family: 'Raleway-500';
+    font-family: 'Raleway';
     font-style: normal;
     font-weight: 500;
 }
@@ -20,7 +20,7 @@
     src: url(/fonts/Raleway-Regular.woff2) format('woff2'),
         url(/fonts/Raleway-Regular.woff) format('woff'),
         url(/fonts/Raleway-Regular.ttf) format('truetype');
-    font-family: 'Raleway-400';
+    font-family: 'Raleway';
     font-style: normal;
     font-weight: 400;
 }
