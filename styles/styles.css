@@ -7,7 +7,8 @@
 
 .header {
     align-items: center;
-    height: 293px;
+    padding-top: 92px;
+    padding-bottom: 92px;
     font-family: Raleway, serif;
     font-size: 19px;
     font-weight: 400;
@@ -139,7 +140,7 @@
 }
 
 .lots__heading {
-    margin-top: 175px;
+    margin-top: 168px;
     margin-left: 40px;
     letter-spacing: 0;
 }
@@ -203,7 +204,7 @@
 }
 
 .lots__look-more-link {
-    margin-top: 30px;
+    margin-top: 27px;
     margin-left: 40px;
     font-family: Raleway, serif;
     font-weight: 400;
@@ -229,12 +230,12 @@
 }
 
 .about__title {
-    margin-top: 102px;
+    margin-top: 97px;
     letter-spacing: 0;
 }
 
 .about__text {
-    margin-top: 102px;
+    margin-top: 99px;
     font-family: Raleway, serif;
     font-weight: 400;
     font-size: 20px;
